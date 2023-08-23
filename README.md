@@ -2,7 +2,7 @@
 
 Meu nome é Sérgio Rodrigues e sou um jornalista em busca de migração para área de tecnologia como Desenvolvedor Back-End!  
 
-Trabalhei na área do jornalismo por 10 anos e, em 2023, comecei essa nova jornada com um curso da [Cubos Acemy](https://cubosacademy.webflow.io/), que tem foco em JavaScript, Node.js e PostgreSQL.
+Trabalhei na área do jornalismo por 10 anos e, em 2023, comecei essa nova jornada com um curso da [Cubos Academy](https://cubosacademy.webflow.io/), que tem foco em JavaScript, Node.js e PostgreSQL.
 
 Atualmente, estou preparando meu portfólio com projetos iniciados no curso e começando a me candidadatar para as vagas.
 
